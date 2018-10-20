@@ -4,6 +4,9 @@ This repository contains my learning from the course [Machine Learning A-Z](http
 
 # TODO 
 Add more information
-Add Certificate
+
+Add Certificate\
+
 Create links for folders and index
+
 Add some info about all the topics
